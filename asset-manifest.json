@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/NasaClicks/static/css/main.fc2d9271.chunk.css",
+    "main.js": "/NasaClicks/static/js/main.0e59a272.chunk.js",
+    "main.js.map": "/NasaClicks/static/js/main.0e59a272.chunk.js.map",
+    "runtime-main.js": "/NasaClicks/static/js/runtime-main.ef744b16.js",
+    "runtime-main.js.map": "/NasaClicks/static/js/runtime-main.ef744b16.js.map",
+    "static/js/2.03f7638e.chunk.js": "/NasaClicks/static/js/2.03f7638e.chunk.js",
+    "static/js/2.03f7638e.chunk.js.map": "/NasaClicks/static/js/2.03f7638e.chunk.js.map",
+    "static/js/3.5bb39b90.chunk.js": "/NasaClicks/static/js/3.5bb39b90.chunk.js",
+    "static/js/3.5bb39b90.chunk.js.map": "/NasaClicks/static/js/3.5bb39b90.chunk.js.map",
+    "index.html": "/NasaClicks/index.html",
+    "static/css/main.fc2d9271.chunk.css.map": "/NasaClicks/static/css/main.fc2d9271.chunk.css.map",
+    "static/js/2.03f7638e.chunk.js.LICENSE.txt": "/NasaClicks/static/js/2.03f7638e.chunk.js.LICENSE.txt",
+    "static/media/main.css": "/NasaClicks/static/media/jupiterPrinc.6086bb56.jpg",
+    "static/media/mini1.e5c40204.jpg": "/NasaClicks/static/media/mini1.e5c40204.jpg",
+    "static/media/mini2.fe767ba0.jpg": "/NasaClicks/static/media/mini2.fe767ba0.jpg",
+    "static/media/mini3.da0d0371.jpg": "/NasaClicks/static/media/mini3.da0d0371.jpg",
+    "static/media/mini4.ef8e3983.jpg": "/NasaClicks/static/media/mini4.ef8e3983.jpg",
+    "static/media/mini5.7434624d.jpg": "/NasaClicks/static/media/mini5.7434624d.jpg",
+    "static/media/mini6.52c21a36.jpg": "/NasaClicks/static/media/mini6.52c21a36.jpg",
+    "static/media/mini7.815d169b.jpg": "/NasaClicks/static/media/mini7.815d169b.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ef744b16.js",
+    "static/js/2.03f7638e.chunk.js",
+    "static/css/main.fc2d9271.chunk.css",
+    "static/js/main.0e59a272.chunk.js"
+  ]
+}
